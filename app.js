@@ -39,7 +39,7 @@ function showTab(tab) {
     
     if (tab === 'cases') {
         const cases = [
-            {id: 1, name: 'LOW CASE', img: 'https://your-link-to-low-case-image.png'},  // Замени на свои ссылки
+            {id: 1, name: 'LOW CASE', img: 'https://i.postimg.cc/c4h2kq70/18-noab-2025-g-21-24-38.png'},  // Твоя ссылка добавлена здесь!
             {id: 2, name: 'Gem Case', img: 'https://your-link-to-gem-case-image.png'},
             {id: 3, name: 'Core Case', img: 'https://your-link-to-core-case-image.png'},
             {id: 4, name: 'Genesis Case', img: 'https://your-link-to-genesis-case-image.png'},
